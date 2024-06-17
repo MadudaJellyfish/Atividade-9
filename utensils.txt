@@ -1,0 +1,20 @@
+32,Colher de Sopa,12.990000,Colher grande de aço inoxidável,1
+87,Faca de Cozinha,25.500000,Faca de corte profissional,1
+45,Garfo de Mesa,8.750000,Garfo de mesa de aço inoxidável,1
+29,Concha,15.300000,Servir caldos,0
+98,Espátula,10.500000,Espátula de silicone,1
+14,Tesoura de Cozinha,18.900000,Tesoura multiuso,1
+66,Ralador,7.600000,Ralador de queijo inoxidável,1
+5,Descascador de Legumes,9.990000,Descascador de aço inoxidável,1
+75,Afiador de Facas,22.400000,Afiador manual de facas,1
+52,Espremedor de Alho,6.500000,Espremedor de alho manual,1
+37,Cozedor de Ovos,14.800000,Cozedor de ovos elétrico,1
+2,Jarra Medidora,13.200000,Jarra medidora de plástico,1
+49,Fouet,11.000000,Batedor de arame,1
+18,Pinça de Cozinha,9.100000,Pinça de aço inoxidável,1
+81,Escumadeira,14.500000,Escumadeira de aço inoxidável,1
+63,Tábua de Corte,16.750000,Tábua de corte de madeira,1
+24,Moedor de Pimenta,19.990000,Moedor de pimenta de cerâmica,1
+92,Cortador de Pizza,7.800000,Cortador de pizza de aço inoxidável,1
+11,Balança de Cozinha,22.000000,Balança digital de cozinha,1
+58,Espremedor de Limão,8.900000,Espremedor de limão manual,1
